@@ -9,3 +9,6 @@ Notes:
 - This was originally a final project for my Intro to CS class, but I had since expanded upon it.
 - The base engine is not mine. It was provided by my professor.
 - However, the rest (the code contained within the methods and the text of the game) is my own work.
+- There are still some improvements, as reflected by the TODO, that I'd like to make. However, I feel as though the game is now in a presentable enough form to share.
+
+Hope you enjoy!
