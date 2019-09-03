@@ -1,12 +1,8 @@
 '''
 The Witch's Cat
-
-Author: Emma Adelmann
-
-University of Delaware
 Original Prompt: Text-based Adventure Game
 
-FIXME:
+TODO:
 - what to render if healing exceeds max hp? this is already handled in process, but not reflected in render.
 - reintroduce -5 HP penalty for "keep walking"
 - descriptions for items?
